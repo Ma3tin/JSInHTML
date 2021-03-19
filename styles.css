@@ -1,0 +1,25 @@
+.black {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+}
+
+.white {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+
+
+
+#board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px black solid;
+}
